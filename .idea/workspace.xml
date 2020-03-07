@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14f14d60-3a6a-4844-a915-1a5e6031d26f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideInfoMessages" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="pgl3.3" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ym79deLdkl5WNZeZsEIUSSULyd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="fr.uvsq.pglp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="fr.uvsq.pglp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pgl3.3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fr.uvsq.pglp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fr.uvsq.pglp" />
+      <option name="MAIN_CLASS_NAME" value="fr.uvsq.pglp.AppTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AppTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14f14d60-3a6a-4844-a915-1a5e6031d26f" name="Default Changelist" comment="" />
+      <created>1583535765715</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583535765715</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="601" y="300" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583587097220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="601" y="300" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1583587097220" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1583588977724">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583588977724" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1583588977724">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583588977724" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1583588977724">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583588977724" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1583588977724">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583588977724" />
+    <state x="571" y="151" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583587298249">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="571" y="151" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1583587298249" />
+  </component>
+</project>
