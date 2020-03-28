@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14f14d60-3a6a-4844-a915-1a5e6031d26f" name="Default Changelist" comment="" />
+    <list default="true" id="14f14d60-3a6a-4844-a915-1a5e6031d26f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fr/uvsq/pglp/RobotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fr/uvsq/pglp/RobotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" afterPath="$PROJECT_DIR$/target/checkstyle-cachefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/App.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/App.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/Robot.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/Robot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/RobotMobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/RobotMobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/RobotStatique.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/RobotStatique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/class-use/App.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/class-use/App.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/class-use/Robot.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/class-use/Robot.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/class-use/RobotMobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/class-use/RobotMobile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/class-use/RobotStatique.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/class-use/RobotStatique.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/fr/uvsq/pglp/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/AppTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/AppTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/RobotTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/RobotTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/class-use/AppTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/class-use/AppTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/class-use/RobotTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/class-use/RobotTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/fr/uvsq/pglp/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/testapidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spotbugsXml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/spotbugsXml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-fr.uvsq.pglp.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/fr.uvsq.pglp.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/fr/uvsq/pglp/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/fr/uvsq/pglp/RobotTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +74,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -36,6 +88,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1Ym79deLdkl5WNZeZsEIUSSULyd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -45,7 +98,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -98,22 +151,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="601" y="300" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1583587097220" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1583588977724">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1583617991052">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583588977724" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1583588977724">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583617991052" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1583617991052">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583588977724" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1583588977724">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583617991052" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1583617991052">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583588977724" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1583588977724">
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583617991052" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1583617991052">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583588977724" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583617991052" />
     <state x="571" y="151" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583587298249">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
